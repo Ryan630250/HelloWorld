@@ -1,5 +1,2 @@
 language: java
-rvm:
- - 8.0
- - java
 os: osx
